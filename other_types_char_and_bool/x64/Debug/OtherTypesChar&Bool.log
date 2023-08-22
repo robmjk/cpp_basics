@@ -1,0 +1,3 @@
+﻿  OtherTypesChar&Bool.cpp
+C:\Users\robmj\Downloads\c++ learn\OtherTypesChar&Bool\OtherTypesChar&Bool.cpp(20,7): error C2374: 'cValue': redefinition; multiple initialization
+C:\Users\robmj\Downloads\c++ learn\OtherTypesChar&Bool\OtherTypesChar&Bool.cpp(18,7): message : see declaration of 'cValue'

@@ -1,0 +1,4 @@
+﻿  IntegerTypes.cpp
+C:\Users\robmj\Downloads\c++ learn\IntegerTypes\IntegerTypes.cpp(20,18): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\robmj\Downloads\c++ learn\IntegerTypes\IntegerTypes.cpp(20,20): warning C4309: 'initializing': truncation of constant value
+  IntegerTypes.vcxproj -> C:\Users\robmj\Downloads\c++ learn\IntegerTypes\x64\Debug\IntegerTypes.exe
