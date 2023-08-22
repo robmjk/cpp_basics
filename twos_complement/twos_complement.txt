@@ -1,0 +1,14 @@
+unsigned values:
+
+3-bit system:
+
+// how to calculate the maximum unsigned value for any particular type if you know how many bits it uses 
+111 = 7 = (2 to the power of 3) - 1 = (2x2x2) - 1 = 7
+(1 + 1x2 + 1x4) - (4+2+1) = 7 
+
+// max value you can store in a byte e.g. unsigned char
+8-bit system:
+11111111 = (2 to the power of 8) - 1 = 255
+
+
+

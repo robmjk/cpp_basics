@@ -1,0 +1,16 @@
+What we need to obtain to create a graphic design program:
+
+Libraries
+Pre-processor
+Compilation (compiles a bunch of .o files)
+Link (combines all of the .o files with any libraries into an executable) e.g. .exe
+
+Static libraries (files that contain c++ code) (files that are actually compiled in your program)
+Dynamic libraries (your program finds the relevant code at run time)
+
+// windows and linux static library suffixes
+Static: Windows - XYZ.lib / UNIX/Linux/Mac - libXYZ.a
+
+// windows and linux dynamic library suffixes
+Dynamic: Windows - XYZ.dll / UNIX/Linux/Mac - libXYZ.so
+Mac: XYZ.dylib
